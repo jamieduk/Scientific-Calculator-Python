@@ -1,5 +1,7 @@
 Scientific Calculator-pygame
 
+https://github.com/jamieduk/Scientific-Calculator-Python
+
 
 ./setup.sh
 
