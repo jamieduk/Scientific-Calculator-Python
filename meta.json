@@ -1,0 +1,15 @@
+{
+  "id": "0cb6697931356813ed061f7bc21af3bf",
+  "title": "Scientific Calculator",
+  "type": "pygame",
+  "deps": [],
+  "owner": "jamied_uk",
+  "safe": true,
+  "scanIssues": [],
+  "scanVersion": 2,
+  "created": "2026-10-03T19:38:24.123Z",
+  "updated": "2026-10-03T19:38:24.123Z",
+  "lastRun": null,
+  "lastOutput": "",
+  "renders": []
+}

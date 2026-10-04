@@ -1,0 +1,3 @@
+# Scientific Calculator
+# stdlib + system packages only (matplotlib available).
+# For pygame projects: pip install pygame
